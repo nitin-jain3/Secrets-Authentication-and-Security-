@@ -7,3 +7,4 @@ Technologies Used :-
 4) JavaScript
 5) Node.js - Express
 6) mongoDB - Mongoose
+7) Passport.js
